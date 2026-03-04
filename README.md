@@ -79,7 +79,7 @@ It works very well for visual learners. Git Desktop is another consideration.
 * Review code quality
 * Traceability
 
-UH has an Enterprise Github license and integrates with our Entra tenant.
+UH has an Enterprise GitHub license and integrates with our Entra tenant.
 
 ## IntelliJ - powerful IDE, reduces the cost of understanding and changing code
 
@@ -90,7 +90,7 @@ UH has an Enterprise Github license and integrates with our Entra tenant.
 * Built-in terminal
 
 Frankly, you could use any IDE. IntelliJ is powerful and ICS recommends it. The 
-students on the IAM team have free access to the paid version and it is the 
+students on the IAM team have free access to the paid version, and it is the 
 editor that they know. Some members of IAM and ES teams prefer it. VS Code is a
 worthy contender.
 
@@ -103,7 +103,7 @@ require as many plugins/extensions as VS Code, for example.
 * Generates code that follows industry best practices and language-specific conventions
 * Drafts unit tests
 * Suggests edge cases
-* Helps with trouble shooting
+* Helps with troubleshooting
 
 There are two main ways to use CoPilot: Ask and Agent:
 * Ask: Great for brainstorming, having a running conversation to explore ideas,
