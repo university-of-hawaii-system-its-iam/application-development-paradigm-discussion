@@ -41,19 +41,24 @@ Friction comes in many forms:
 
 ## Git - safety, educes the cost of being wrong
 
-* Branch isolation
+* Branch isolation (feature branches)
 * Atomic commits
 * Safe rollback
-* Local history rewriting before publish (to GitHub)
+* Local history rewriting before publishing
 * Time-travel debugging
+
+Consider a git UI such as GitKraken to climb the learning curve more quickly. 
+It works very well for visual learners. Git Desktop is another consideration.
 
 ## GitHub - structured coordination, versioning, institutional memory
 
-* Pull Requests as design discussion
-* Protected branches
+* Central code repository for collaboration
+* Pull Requests for source code control
 * Review requirements
 * Review code quality
 * Traceability
+
+UH has an Enterprise Github license and integrates with our Entra tenant.
 
 ## IntelliJ - powerful IDE, reduces the cost of understanding and changing code
 
@@ -65,7 +70,8 @@ Friction comes in many forms:
 
 Frankly, you could use any IDE. IntelliJ is powerful and ICS recommends it. The 
 students on the IAM team have free access to the paid version and it is the 
-editor that they know. Some members of IAM and ES teams prefer it
+editor that they know. Some members of IAM and ES teams prefer it. VS Code is a
+worthy contender.
 
 The community version is also free and has many of the same features and doesn't 
 require as many plugins/extensions as VS Code, for example.
