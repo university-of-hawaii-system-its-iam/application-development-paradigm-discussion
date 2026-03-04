@@ -1,22 +1,38 @@
 Application Development Paradigm Discussion
 
+<!-- TOC -->
+* [Overview](#overview)
+* [Application Development: Velocity vs Friction](#application-development-velocity-vs-friction)
+* [Tooling up to reduce friction](#tooling-up-to-reduce-friction)
+  * [Git - safety, educes the cost of being wrong](#git---safety-educes-the-cost-of-being-wrong)
+  * [GitHub - structured coordination, versioning, institutional memory](#github---structured-coordination-versioning-institutional-memory)
+  * [IntelliJ - powerful IDE, reduces the cost of understanding and changing code](#intellij---powerful-ide-reduces-the-cost-of-understanding-and-changing-code)
+  * [CoPilot - AI paired programming, reduces discovery time, compresses the learning curve](#copilot---ai-paired-programming-reduces-discovery-time-compresses-the-learning-curve)
+* [Future topic(s)](#future-topics)
+  * [Containerization](#containerization)
+  * [CI/CD pipelines](#cicd-pipelines)
+<!-- TOC -->
+
+---
 # Overview
 
 We are asked to develop apps to solve business problems.
 
 I propose that we develop apps because we want to see our ideas built, and 
 because we enjoy helping people and serving our community well. Reducing 
-friction during app building allows us to focus on our ideas.
+friction during app building allows us to focus on our ideas and to serve
+our community more quickly.
 
 My first React project: <https://github.com/mhodgesatuh/ConferenceRegApp>.
 I've been in the habit of building conference registration apps as a way to 
 learn new frameworks. My first one was built with the Symfony 1 PHP framework.
-The learning curve was steep and very high friction.
+That learning curve was steep and very high friction.
 
-| Question | What sparked an interest in this topic?                                                            |
-|----------|----------------------------------------------------------------------------------------------------|
-| Answer   | Motivation to help IAM students successfully compete for entry-level position in the IT workforce. |
+| Question | What sparked an interest in this topic?                                                |
+|----------|----------------------------------------------------------------------------------------|
+| Answer   | Motivation to help IAM students compete for entry-level positions in the IT workforce. |
 
+---
 # Application Development: Velocity vs Friction
 
 Friction slows the transition from ideal to implementation.
@@ -34,6 +50,7 @@ Friction comes in many forms:
 * Generating unit tests
 * The feedback loop of writing code, running it, and seeing the results
 
+---
 # Tooling up to reduce friction
 
 | Tool     | Description         | Velocity                                                  |
@@ -93,3 +110,17 @@ There are two main ways to use CoPilot: Ask and Agent:
   generating code for a specific task.
 * Agent: It is empowered, can explore your codebase, update your code, create 
   new files and documentation, and more. 
+
+---
+# Future topic(s)
+
+The app development lifecycle and code promotions from development to staging to 
+production, and the tools that support it.
+
+## Containerization
+
+Docker and docker desktop
+
+## CI/CD pipelines
+
+TBD
