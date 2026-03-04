@@ -13,6 +13,10 @@ I've been in the habit of building conference registration apps as a way to
 learn new frameworks. My first one was built with the Symfony 1 PHP framework.
 The learning curve was steep and very high friction.
 
+| Question | What sparked an interest in this topic?                                                            |
+|----------|----------------------------------------------------------------------------------------------------|
+| Answer   | Motivation to help IAM students successfully compete for entry-level position in the IT workforce. |
+
 # Application Development: Velocity vs Friction
 
 Friction slows the transition from ideal to implementation.
