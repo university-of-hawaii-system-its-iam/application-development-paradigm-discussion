@@ -84,6 +84,7 @@ UH has an Enterprise GitHub license and integrates with our Entra tenant.
 ## IntelliJ - powerful IDE, reduces the cost of understanding and changing code
 
 * Refactoring tools
+* Syntax/spelling checking
 * Code formatting
 * Code navigation
 * Code search
@@ -101,6 +102,7 @@ require as many plugins/extensions as VS Code, for example.
 
 * Infers framework patterns
 * Generates code that follows industry best practices and language-specific conventions
+* Securing code, avoid secrets leakage
 * Drafts unit tests
 * Suggests edge cases
 * Helps with troubleshooting
