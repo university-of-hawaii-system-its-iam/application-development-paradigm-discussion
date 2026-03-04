@@ -52,7 +52,7 @@ Friction comes in many forms:
 * Pull Requests as design discussion
 * Protected branches
 * Review requirements
-* CI enforcement
+* Review code quality
 * Traceability
 
 ## IntelliJ - powerful IDE, reduces the cost of understanding and changing code
@@ -65,7 +65,7 @@ Friction comes in many forms:
 
 Frankly, you could use any IDE. IntelliJ is powerful and ICS recommends it. The 
 students on the IAM team have free access to the paid version and it is the 
-editor that they know. Some members if IAM and ES teams prefer it
+editor that they know. Some members of IAM and ES teams prefer it
 
 The community version is also free and has many of the same features and doesn't 
 require as many plugins/extensions as VS Code, for example.
@@ -73,10 +73,10 @@ require as many plugins/extensions as VS Code, for example.
 ## CoPilot - AI paired programming, reduces discovery time, compresses the learning curve
 
 * Infers framework patterns
-* Suggests correct API usage
-* Generates idiomatic code
+* Generates code that follows industry best practices and language-specific conventions
 * Drafts unit tests
 * Suggests edge cases
+* Helps with trouble shooting
 
 There are two main ways to use CoPilot: Ask and Agent:
 * Ask: Great for brainstorming, having a running conversation to explore ideas,
