@@ -60,7 +60,7 @@ Friction comes in many forms:
 | IntelliJ | Powerful IDE        | Code control: refactoring, formatting, etc                |
 | CoPilot  | IDE/AI integration  | Debugging, refactoring, code generation, exploration, etc |
 
-## Git - safety, educes the cost of being wrong
+## Git - safety, reduces the cost of being wrong
 
 * Branch isolation (feature branches)
 * Atomic commits
