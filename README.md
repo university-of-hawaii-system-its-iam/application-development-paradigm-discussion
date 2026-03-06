@@ -4,7 +4,7 @@ Application Development Paradigm Discussion
 * [Overview](#overview)
 * [Application Development: Velocity vs Friction](#application-development-velocity-vs-friction)
 * [Tooling up to reduce friction](#tooling-up-to-reduce-friction)
-  * [Git - safety, educes the cost of being wrong](#git---safety-educes-the-cost-of-being-wrong)
+  * [Git - safety, reduces the cost of being wrong](#git---safety-educes-the-cost-of-being-wrong)
   * [GitHub - structured coordination, versioning, institutional memory](#github---structured-coordination-versioning-institutional-memory)
   * [IntelliJ - powerful IDE, reduces the cost of understanding and changing code](#intellij---powerful-ide-reduces-the-cost-of-understanding-and-changing-code)
   * [CoPilot - AI paired programming, reduces discovery time, compresses the learning curve](#copilot---ai-paired-programming-reduces-discovery-time-compresses-the-learning-curve)
