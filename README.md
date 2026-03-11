@@ -4,7 +4,7 @@ Application Development Paradigm Discussion
 * [Overview](#overview)
 * [Application Development: Velocity vs Friction](#application-development-velocity-vs-friction)
 * [Tooling up to reduce friction](#tooling-up-to-reduce-friction)
-  * [Git - safety, reduces the cost of being wrong](#git---safety-educes-the-cost-of-being-wrong)
+  * [Git - safety, reduces the cost of being wrong](#git---safety-reduces-the-cost-of-being-wrong)
   * [GitHub - structured coordination, versioning, institutional memory](#github---structured-coordination-versioning-institutional-memory)
   * [IntelliJ - powerful IDE, reduces the cost of understanding and changing code](#intellij---powerful-ide-reduces-the-cost-of-understanding-and-changing-code)
   * [CoPilot - AI paired programming, reduces discovery time, compresses the learning curve](#copilot---ai-paired-programming-reduces-discovery-time-compresses-the-learning-curve)
@@ -28,25 +28,26 @@ I've been in the habit of building conference registration apps as a way to
 learn new frameworks. My first one was built with the Symfony 1 PHP framework.
 That learning curve was steep and very high friction.
 
-| Question | What sparked an interest in this topic?                                                |
-|----------|----------------------------------------------------------------------------------------|
-| Answer   | Motivation to help IAM students compete for entry-level positions in the IT workforce. |
+| Question  | What sparked an interest in this topic?                                                            |
+|-----------|----------------------------------------------------------------------------------------------------|
+| Answer #1 | Motivation to help IAM students compete for entry-level positions in the IT workforce.             |
+| Answer #2 | Working with Unicon consultants and our Internet2 Trusted Access Platform working group IAM peers. |
 
 ---
 # Application Development: Velocity vs Friction
 
-Friction slows the transition from ideal to implementation.
+Friction slows the transition from idea to implementation.
 
 Friction comes in many forms:
 * Fear of breaking working code
 * Understanding the code
-* Manual refactoring
+* **Manual refactoring**
 * Searching documentation
 * Debug cycles
 * Onboarding to new codebases
-* Climbing learning curves
+* **Climbing learning curves**
 * Finding and fixing vulnerabilities
-* Manually entering every single line of code
+* **Manually entering every single line of code**
 * Generating unit tests
 * The feedback loop of writing code, running it, and seeing the results
 
@@ -111,7 +112,7 @@ There are two main ways to use CoPilot: Ask and Agent:
 * Ask: Great for brainstorming, having a running conversation to explore ideas,
   generating code for a specific task.
 * Agent: It is empowered, can explore your codebase, update your code, create 
-  new files and documentation, and more. 
+  new files and documentation, run shell commands, and more. 
 
 ---
 # Future topic(s)
